@@ -1,0 +1,23 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "翻譯": "pivot -i 源 -o 產物 --hl chinese"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefaniehansen/mi-sitio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefaniehansen/mi-sitio/issues"
+  },
+  "homepage": "https://github.com/stefaniehansen/mi-sitio#readme",
+  "devDependencies": {
+    "pivotify": "^1.0.4"
+  }
+}
